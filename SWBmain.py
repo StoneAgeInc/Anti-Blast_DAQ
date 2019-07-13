@@ -2,6 +2,8 @@
 Main file to launch GUI and control for sewer anti-blast project.
 Working and tested 7.5 for basic functionality
 Buttons with no actions disabled from UI file.
+
+Edit: Tested with GitHub Desktop integration.
 '''
 
 from fbs_runtime.application_context.PyQt5 import ApplicationContext
